@@ -1,1 +1,1 @@
-web: python netemprego.py
+worker: python netemprego.py
